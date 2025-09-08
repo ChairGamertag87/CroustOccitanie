@@ -4,7 +4,7 @@ import { ensureDataDir, DATA_FILE, saveJSON, readJSON } from '../utils/files.js'
 
 
 export async function fetchEstablishmentsRaw() {
-    const url = `${ODATA_BASE}/?dataset=fr_crous_restauration_france_entiere&q=&rows=500&refine.region=${encodeURIComponent(CROUS_TERRITORY.region)}&refine.crous=${encodeURIComponent(CROUS_TERRITORY.crous)}`;
+    const url = `${ODATA_BASE}/?dataset=fr_crous_restauration_france_entiere&q=&rows=2000&geofilter.distance=43.6045,1.4440,15000`;
     const { data } = await http.get(url);
     return data; // {nhits, parameters, records: [...]}
 }
