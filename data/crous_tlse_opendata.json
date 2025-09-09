@@ -1,5 +1,5 @@
 {
-  "savedAt": "2025-09-08T07:51:58.065Z",
+  "savedAt": "2025-09-09T09:03:14.115Z",
   "meta": {
     "region": "Occitanie",
     "crous": "Toulouse-Occitanie",
@@ -8,12 +8,12 @@
   "records": [
     {
       "datasetid": "fr_crous_restauration_france_entiere",
-      "recordid": "f9509311529969a1efb71b59b583b8e306e680fb",
+      "recordid": "e28cd8b4adf662a07e83423503155c0a7d59271b",
       "fields": {
         "photo": "http://www.crous-toulouse.fr/wp-content/uploads/sites/36/2018/10/iep.jpg",
         "short_desc": "Structure située sur le campus Toulouse Capitole, rue des Puits Creusés dans les anciens locaux de l'IEP.",
         "contact": "Cafet' des Puits Creusés 2 Ter rue des puits creusés, 31000 Toulouse Téléphone : 07 72 24 44 08  E-mail : restaurant.arsenal@crous-toulouse.fr",
-        "infos": "Localisation Structure située sur le campus Toulouse Capitole, rue des Puits Creusés dans les anciens locaux de l'IEP. \nHoraires Du lundi au vendredi de 8h30 à 14h30. \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli. Bus 16, 70, 71 arrêt Compans Cafarelli \nPratique  WIFI disponible \nCafétéria Internet Distributeur automatique Vente à emporter Monétique \nPaiements possibles  Carte bancaire \n IZLY",
+        "infos": "Localisation Structure située sur le campus Toulouse Capitole, rue des Puits Creusés dans les anciens locaux de l'IEP. \nHoraires Du lundi au vendredi de 7h45 à 17h00. \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli. Bus 16, 70, 71 arrêt Compans Cafarelli \nPratique  WIFI disponible \nCafétéria Internet Distributeur automatique Vente à emporter Monétique \nPaiements possibles  Carte bancaire \n IZLY",
         "zone": "Toulouse",
         "id": "r671",
         "title": "Cafet' des Puits Creusés",
@@ -34,16 +34,16 @@
           43.60691
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
-      "recordid": "8d123ab6311f3ea2069a694e3535c19ba4610902",
+      "recordid": "fd53664f730881c9eecd54c8512d5a17321d9191",
       "fields": {
         "photo": "http://www.crous-toulouse.fr/wp-content/uploads/sites/36/2017/03/Riquet.jpg",
         "short_desc": "Sur le campus de Toulouse Capitole, la cheffe propose des plats à l'ardoise et au fil des saisons composée de produits frais et cuisinés maison.",
         "contact": "Brasserie Riquet 2 boulevard Armand Duportal 31000 Toulouse  Téléphone : 05 61 12 55 34 E-mail : brasserie.riquet@crous-toulouse.fr",
-        "infos": "Localisation Sur le campus de Toulouse Capitole, la cheffe propose des plats à l'ardoise et au fil des saisons composée de produits frais et cuisinés maison. \nHoraires Les équipes vous accueillent de 12h à 14h du lundi au vendredi, avec ou sans réservation. Attention, ces horaires sont susceptibles d'évoluer.  \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli Métro ligne A - Station Capitole  \nPratique  Accessible aux personnes à mobilité réduite \n WIFI disponible \nMoyens de paiement acceptés : Izly, carte bleue, chèque & bon de commande. \nPaiements possibles  Carte bancaire \n IZLY",
+        "infos": "Localisation Sur le campus de Toulouse Capitole, la cheffe propose des plats à l'ardoise et au fil des saisons composée de produits frais et cuisinés maison. \nHoraires Les équipes vous accueillent de 11h30 à 13h30 du lundi au vendredi, avec ou sans réservation. Attention, ces horaires sont susceptibles d'évoluer.  \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli Métro ligne A - Station Capitole  \nPratique  Accessible aux personnes à mobilité réduite \n WIFI disponible \nMoyens de paiement acceptés : Izly, carte bleue, chèque & bon de commande. \nPaiements possibles  Carte bancaire \n IZLY",
         "zone": "Toulouse",
         "id": "r985",
         "title": "Brasserie Riquet",
@@ -64,16 +64,16 @@
           43.6057154
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
-      "recordid": "197920b2ef50411ea17ea51ac661dbf06d962b6e",
+      "recordid": "e08a5bafaa600f329e9a2a647b38fbb1963d97e4",
       "fields": {
         "photo": "https://www.crous-toulouse.fr/wp-content/uploads/sites/36/2017/04/arsenal-e1491836145676.jpg",
         "short_desc": "En centre-ville de Toulouse, sur le campus de l'université Toulouse Capitole.  Restauration administrative et étudiante. Salle d'hôtes : possibilité de réaliser des cocktails et buffet.",
         "contact": "Resto U' Arsenal 2 Boulevard Armand Duportal, 31000 Toulouse Téléphone : 05 62 25 62 53 E-mail : restaurant.arsenal@crous-toulouse.fr",
-        "infos": "Localisation En centre-ville de Toulouse, sur le campus de l'université Toulouse Capitole.  Restauration administrative et étudiante. Salle d'hôtes : possibilité de réaliser des cocktails et buffet. \nHoraires Du lundi au vendredi de 11h30 à 13h30 et de 18h30 à 20h45. Et le week-end de 11h30 à 13h30 et de 18h30 à 20h15.  Attention, ces horaires sont susceptibles d'évoluer. \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli. Métro ligne A station Capitole Bus 16,70,71. \nPratique  Accessible aux personnes à mobilité réduite \n WIFI disponible \n- Borne de rechargement Izly - Cafet' à proximité - Vente à emporter en soirée  \nPaiements possibles  Carte bancaire \n IZLY",
+        "infos": "Localisation En centre-ville de Toulouse, sur le campus de l'université Toulouse Capitole.  Restauration administrative et étudiante. Salle d'hôtes : possibilité de réaliser des cocktails et buffet. \nHoraires Du lundi au vendredi de 11h15 à 14h00 et de 18h30 à 20h30. Et le week-end de 11h30 à 13h30 et de 18h30 à 20h15.  Attention, ces horaires sont susceptibles d'évoluer. \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli. Métro ligne A station Capitole Bus 16,70,71. \nPratique  Accessible aux personnes à mobilité réduite \n WIFI disponible \n- Borne de rechargement Izly - Cafet' à proximité - Vente à emporter en soirée  \nPaiements possibles  Carte bancaire \n IZLY",
         "zone": "Toulouse",
         "id": "r167",
         "title": "Resto U' Arsenal",
@@ -94,16 +94,16 @@
           43.605629
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
-      "recordid": "a29513473064b12b53c21b817664706f9d4c765d",
+      "recordid": "94d65948417494f721a1d37bc5290406d0b6be54",
       "fields": {
         "photo": "http://www.crous-toulouse.fr/wp-content/uploads/sites/36/2018/10/Capitole.jpg",
         "short_desc": "Située dans l'enceinte de l'Université Toulouse Capitole.",
         "contact": "Cafet' Capitole 2 rue du Doyen Gabriel Marty 31000 Toulouse Cedex. Téléphone : 05 62 25 62 71 E-mail : restaurant.arsenal@crous-toulouse.fr",
-        "infos": "Localisation Située dans l'enceinte de l'Université Toulouse Capitole.  \nHoraires Du lundi au vendredi de 8h00 à 16h00.  Attention, ces horaires sont susceptibles d'évoluer.  \nMoyen d'accès Métro ligne B station Compans-Caffarelli Métro ligne A station Capitole Bus 16, 70, 71 arrêt Compans-Caffarelli \nPratique  WIFI disponible \n- Borne de rechargement Izly - Internet - Vente à emporter \nPaiements possibles  Carte bancaire \n IZLY",
+        "infos": "Localisation Située dans l'enceinte de l'Université Toulouse Capitole.  \nHoraires Du lundi au vendredi de 8h00 à 18h30. Le samedi de 9h00 à 16h00.  Attention, ces horaires sont susceptibles d'évoluer.  \nMoyen d'accès Métro ligne B station Compans-Caffarelli Métro ligne A station Capitole Bus 16, 70, 71 arrêt Compans-Caffarelli \nPratique  WIFI disponible \n- Borne de rechargement Izly - Internet - Vente à emporter \nPaiements possibles  Carte bancaire \n IZLY",
         "zone": "Toulouse",
         "id": "r670",
         "title": "Cafet' Capitole",
@@ -124,16 +124,16 @@
           43.60695
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
-      "recordid": "6d8ccfba8047a213d008567046fed816f0aeae6a",
+      "recordid": "2b7e7e4f92bac9f2dde3860fef6a9b0f13810b03",
       "fields": {
         "photo": "https://www.crous-toulouse.fr//wp-content/uploads/sites/36/2017/03/Arsenal-cafet.jpg",
         "short_desc": "Située au rez-de-chaussée du Resto U' Arsenal. Sur place ou à emporter : boissons chaudes et fraîches, salades, pasta box, sandwichs, paninis, crêpes au sucre et au chocolat, viennoiseries et pâtisseries...",
         "contact": "Cafet' Arsenal 2 boulevard Armand Duportal, 31000 Toulouse Téléphone : 05 62 25 62 71 E-mail : restaurant.arsenal@crous-toulouse.fr",
-        "infos": "Localisation Située au rez-de-chaussée du Resto U' Arsenal. Sur place ou à emporter : boissons chaudes et fraîches, salades, pasta box, sandwichs, paninis, crêpes au sucre et au chocolat, viennoiseries et pâtisseries... \nHoraires Du lundi au vendredi de 8h30 à 15h00 Attention, ces horaires sont susceptibles d'évoluer. \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli. Métro ligne A station Capitole Bus 16, 70, 71 \nPratique  Accessible aux personnes à mobilité réduite \n WIFI disponible \n- Borne de rechargement Izly - Resto U' à proximité - Vente à emporter \nPaiements possibles  Carte bancaire \n IZLY",
+        "infos": "Localisation Située au rez-de-chaussée du Resto U' Arsenal. Sur place ou à emporter : boissons chaudes et fraîches, salades, pasta box, sandwichs, paninis, crêpes au sucre et au chocolat, viennoiseries et pâtisseries... \nHoraires Du lundi au vendredi de 7h45 à 17h30 Attention, ces horaires sont susceptibles d'évoluer. \nMoyen d'accès Métro ligne B - Station Compans-Caffarelli. Métro ligne A station Capitole Bus 16, 70, 71 \nPratique  Accessible aux personnes à mobilité réduite \n WIFI disponible \n- Borne de rechargement Izly - Resto U' à proximité - Vente à emporter \nPaiements possibles  Carte bancaire \n IZLY",
         "zone": "Toulouse",
         "id": "r672",
         "title": "Cafet' Arsenal",
@@ -154,16 +154,16 @@
           43.6055032
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
-      "recordid": "2a5d414404d4b16715a3deb9292c7c968753b8dc",
+      "recordid": "496d47ec815693399bd8cf3ff6e0c94ffb8b957d",
       "fields": {
         "photo": "http://www.crous-toulouse.fr/wp-content/uploads/sites/36/2017/03/Manu.jpg",
         "short_desc": "Située dans l'enceinte de l'Université Toulouse 1 Capitole, sur le site de la Manufacture des Tabacs, dans une magnifique cave voutée en briques.",
         "contact": "Cafet' Manufacture des Tabacs 21 allées de Brienne, 31000 Toulouse Téléphone : 05 61 12 45 45 E-mail : restaurant.arsenal@crous-toulouse.fr",
-        "infos": "Localisation Située dans l'enceinte de l'Université Toulouse 1 Capitole, sur le site de la Manufacture des Tabacs, dans une magnifique cave voutée en briques.  \nHoraires Du lundi au vendredi de 8h à 15h30. Attention, les horaires sont susceptibles d'évoluer. \nMoyen d'accès Métro ligne B station Compans-Caffarelli. Bus 16, 70, 71 arrêt Compans-Caffarelli \nPratique  WIFI disponible \nCafétéria Internet Vente à emporter \nPaiements possibles  Carte bancaire \n IZLY",
+        "infos": "Localisation Située dans l'enceinte de l'Université Toulouse 1 Capitole, sur le site de la Manufacture des Tabacs, dans une magnifique cave voutée en briques.  \nHoraires Du lundi au vendredi de 8h00 à 17h00. Le mercredi de 8h00 à 16h00.  Attention, les horaires sont susceptibles d'évoluer. \nMoyen d'accès Métro ligne B station Compans-Caffarelli. Bus 16, 70, 71 arrêt Compans-Caffarelli \nPratique  WIFI disponible \nCafétéria Internet Vente à emporter \nPaiements possibles  Carte bancaire \n IZLY",
         "zone": "Toulouse",
         "id": "r669",
         "title": "Cafet' Manufacture des Tabacs",
@@ -184,7 +184,7 @@
           43.6053969
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -214,7 +214,7 @@
           43.6024
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -244,7 +244,7 @@
           43.60252
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -273,7 +273,7 @@
           43.5806199
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -303,7 +303,7 @@
           43.5703224
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -333,7 +333,7 @@
           43.5691223
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -363,7 +363,7 @@
           43.57007
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -393,7 +393,7 @@
           43.57007
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -423,7 +423,7 @@
           43.578005
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -453,7 +453,7 @@
           43.57667
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -483,7 +483,7 @@
           43.5766
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -513,7 +513,7 @@
           43.56338
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -543,7 +543,7 @@
           43.5634023
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -573,7 +573,7 @@
           43.5634023
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -604,7 +604,7 @@
           43.6002708
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -634,7 +634,7 @@
           43.6002708
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -664,7 +664,7 @@
           43.564121
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -695,7 +695,7 @@
           43.56238
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -725,7 +725,7 @@
           43.562441
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -755,7 +755,7 @@
           43.5619026
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -785,7 +785,7 @@
           43.5609
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -815,7 +815,7 @@
           43.56087
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -846,7 +846,7 @@
           43.562272
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -876,7 +876,7 @@
           43.5558496
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -906,7 +906,7 @@
           43.6512073
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -936,7 +936,7 @@
           43.533518
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     },
     {
       "datasetid": "fr_crous_restauration_france_entiere",
@@ -966,7 +966,7 @@
           43.533517
         ]
       },
-      "record_timestamp": "2025-09-07T22:19:31.097Z"
+      "record_timestamp": "2025-09-08T22:18:38.688Z"
     }
   ]
 }
