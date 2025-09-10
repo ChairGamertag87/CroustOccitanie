@@ -15,7 +15,7 @@ import { normalizeRecords, isInCity } from '../services/normalize.js';
 import { titleCase } from '../utils/strings.js';
 
 // ---------------- Helpers ----------------
-function buildSafePreview(header, lines, hardLimit = 2000) {
+function buildSafePreview(header, lines, hardLimit = 1000) {
     const maxBody = Math.max(0, hardLimit - header.length - 50);
     const acc = [];
     let used = 0;
@@ -33,7 +33,7 @@ function buildSafePreview(header, lines, hardLimit = 2000) {
 const BRAND = {
     color: 0xFF0000, // jaune doux
     authorName: 'CROUS Toulouse',
-    authorIcon: 'assets/img/logo.png', // remplace par ton logo
+    authorIcon: 'https://imgur.com/a/yayaya-ICB60PS', // remplace par ton logo
     thumb: 'https://i.imgur.com/Mk0G6fM.png',      // remplace par ton pictogramme
 };
 const E = { fork: '🍽️', pin: '📍', time: '⏰' };
