@@ -2,6 +2,14 @@ import 'dotenv/config';
 import { Client, IntentsBitField, Collection } from 'discord.js';
 import { commands } from './commands/index.js';
 
+console.log(`
+   ▄▄▄                                ▄     ▄▄▄▄                  ▀      ▄                    ▀   
+ ▄▀   ▀  ▄ ▄▄   ▄▄▄   ▄   ▄   ▄▄▄   ▄▄█▄▄  ▄▀  ▀▄  ▄▄▄    ▄▄▄   ▄▄▄    ▄▄█▄▄   ▄▄▄   ▄ ▄▄   ▄▄▄   
+ █       █▀  ▀ █▀ ▀█  █   █  █   ▀    █    █    █ █▀  ▀  █▀  ▀    █      █    ▀   █  █▀  █    █   
+ █       █     █   █  █   █   ▀▀▀▄    █    █    █ █      █        █      █    ▄▀▀▀█  █   █    █   
+  ▀▄▄▄▀  █     ▀█▄█▀  ▀▄▄▀█  ▀▄▄▄▀    ▀▄▄   █▄▄█  ▀█▄▄▀  ▀█▄▄▀  ▄▄█▄▄    ▀▄▄  ▀▄▄▀█  █   █  ▄▄█▄▄  
+`);
+
 
 const client = new Client({ intents: [IntentsBitField.Flags.Guilds] });
 client.commands = new Collection();
