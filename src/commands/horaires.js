@@ -2,8 +2,15 @@ import { SlashCommandBuilder, EmbedBuilder } from 'discord.js';
 import { loadNormalizedFromLocal } from '../services/normalize.js';
 import { codeBlock } from '../utils/strings.js';
 
+const BRAND = {
+    color: 0xFF0000, // jaune doux
+    authorName: 'CROUS Toulouse',
+    authorIcon: 'https://imgur.com/CzPzlqC.png',
+    thumb: 'https://i.imgur.com/Mk0G6fM.png',
+};
 
 export default {
+
     data: new SlashCommandBuilder()
         .setName('crous-horaires')
         .setDescription('Affiche les horaires pour un établissement de Toulouse (cache local)')
@@ -21,13 +28,16 @@ export default {
 
 
         const emb = new EmbedBuilder()
+            .setColor(BRAND.color)
+            .setAuthor({ name: BRAND.authorName, iconURL: BRAND.authorIcon })
             .setTitle(match.name)
             .setDescription(match.description || null)
             .addFields(
                 match.hours_raw ? [{ name: 'Horaires', value: codeBlock(match.hours_raw) }] : [],
                 match.address ? [{ name: 'Adresse', value: match.address + (match.city ? `, ${match.city}` : '') }] : []
             )
-            .setFooter({ text: 'Source: Open data (cache local ./data) — Toulouse uniquement' });
+            .setFooter({ text: 'Source : Open data CNOUS — /crous-horaires' })
+            .setTimestamp(new Date());
 
 
         await i.editReply({ embeds: [emb] });
