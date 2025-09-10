@@ -1,4 +1,3 @@
-// src/commands/restos.js
 import {
     SlashCommandBuilder,
     AttachmentBuilder,
@@ -31,7 +30,7 @@ function buildSafePreview(header, lines, hardLimit = 1000) {
 }
 
 const BRAND = {
-    color: 0xFF0000, // jaune doux
+    color: 0xFF0000,
     authorName: 'CROUS Toulouse',
     authorIcon: 'https://imgur.com/CzPzlqC.png',
     thumb: 'https://i.imgur.com/Mk0G6fM.png',
