@@ -33,8 +33,8 @@ function buildSafePreview(header, lines, hardLimit = 1000) {
 const BRAND = {
     color: 0xFF0000, // jaune doux
     authorName: 'CROUS Toulouse',
-    authorIcon: 'https://imgur.com/a/yayaya-ICB60PS', // remplace par ton logo
-    thumb: 'https://i.imgur.com/Mk0G6fM.png',      // remplace par ton pictogramme
+    authorIcon: 'https://imgur.com/CzPzlqC.png',
+    thumb: 'https://i.imgur.com/Mk0G6fM.png',
 };
 const E = { fork: '🍽️', pin: '📍', time: '⏰' };
 
