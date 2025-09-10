@@ -161,13 +161,8 @@ export default {
             `\nTotal: **${filtered.length}** établissements.\n\nNavigation via les boutons ci-dessous.`;
         const preview = buildSafePreview(header, []);
 
-        // 6) Attachements (liste + JSON)
-        const listBuf = Buffer.from(linesAll.join('\n'), 'utf8');
-        const listAttach = new AttachmentBuilder(listBuf, { name: 'crous_tlse_list.txt' });
-        const jsonBuf = await fs.readFile(filePath);
-        const jsonAttach = new AttachmentBuilder(jsonBuf, { name: path.basename(filePath) });
 
-        // 7) Préparer les cartes & pages d'embeds
+        // 6) Préparer les cartes & pages d'embeds
         const allCards = filtered.map(makeCard);
         const PAGES = paginateCards(allCards, 8);
         const pageCount = Math.max(1, PAGES.length);
@@ -186,10 +181,9 @@ export default {
             content: preview,
             embeds: [embed0],
             components: [row0],
-            files: [listAttach, jsonAttach],
         });
 
-        // 8) Collector pour changer de page (2 minutes)
+        // 7 Collector pour changer de page (2 minutes)
         const collector = msg.createMessageComponentCollector({
             time: 120_000,
             filter: (btn) => btn.user.id === i.user.id && btn.customId.endsWith(uid),
